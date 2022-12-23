@@ -1,0 +1,140 @@
+/* Navbar */
+
+.navbar {
+  background-color: #384658;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+}
+
+.navbar a {
+  text-decoration: none;
+  width: 200px;
+  text-align: center;
+  height: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 0.1em;
+  color: whitesmoke;
+  padding: 10px 0px;
+  font-size: 0.8em;
+}
+
+.navbar a:active {
+  background-color: #6d6e70;
+}
+
+body {
+  margin: 0px;
+  background-color: #384658;
+}
+/* Homepage */
+
+#home {
+  background-color: #6d6e70;
+  background-image: url("./images/mauer.jpg");
+  background-position: bottom;
+  background-size: 100%;
+  color: whitesmoke;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#home h1 {
+  font-size: 2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: #6d6e70;
+  padding: 10px;
+}
+
+#home h2 {
+  background-color: #c9a0c4;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+}
+
+.zitat {
+  background-color: #384658;
+  color: whitesmoke;
+  max-width: 710px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -0.02rem;
+  font-size: 0.8em;
+}
+
+/* Autor */
+
+#autor {
+  background-color: #384658;
+  color: whitesmoke;
+  max-width: 710px;
+  margin: 0px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -0.02rem;
+  font-size: 0.8em;
+  gap: 20px;
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* Buch */
+
+#buch {
+  background-image: url("./images/mauer.jpg");
+  background-size: 100%;
+  color: whitesmoke;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.buch {
+  display: flex;
+  flex-direction: row-reverse;
+  max-width: 650px;
+  margin: 0px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -0.02rem;
+  font-size: 0.8em;
+  gap: 20px;
+  background-color: #6d6e70;
+  padding: 30px;
+}
+
+/* Hintergruende */
+
+#info {
+  display: flex;
+  flex-direction: row-reverse;
+  background-image: url("./images/mauer.jpg");
+  background-size: 100%;
+  background-position: center;
+  padding: 30px;
+}
+
+.info {
+  max-width: 650px;
+  margin: 0px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -0.02rem;
+  font-size: 0.8em;
+  gap: 20px;
+  background-color: #6d6e70;
+  padding: 30px;
+  color: whitesmoke;
+}
