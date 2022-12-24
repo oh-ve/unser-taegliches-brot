@@ -4,18 +4,13 @@ export default function Zitat() {
   return (
     <div className="zitat">
       <p id="zitat">
-        In thoroughfares nigh the docks, any considerable seaport will
-        frequently offer to view the queerest looking nondescripts from foreign
-        parts. Even in Broadway and Chestnut streets, Mediterranean mariners
-        will sometimes jostle the affrighted ladies. Regent Street is not
-        unknown to Lascars and Malays; and at Bombay, in the Apollo Green, live
-        Yankees have often scared the natives. But New Bedford beats all Water
-        Street and Wapping. In these last-mentioned haunts you see only sailors;
-        but in New Bedford, actual cannibals stand chatting at street corners;
-        savages outright; many of whom yet carry on their bones unholy flesh. It
-        makes a stranger stare.
+        „Wir haben gestern in der Früh einen toten Mann gefunden, der unter sehr
+        verdächtigen Umständen ums Leben gekommen ist“, begann Rocco in
+        offiziellem Ton. „Wir gehen davon aus, dass es sich um ei-nen Mord
+        handelt.“ „Mord?“, fragte Don Lorenzo. „Seit dem Zweiten Weltkrieg gab
+        es keine Morde bei uns in der Stadt. Ist das sicher?“
       </p>
-      <p id="seitenzahl">Unser tägliches Brot, Seite 54</p>
+      <p id="seitenzahl">Unser tägliches Brot, Seite 190</p>
     </div>
   );
 }

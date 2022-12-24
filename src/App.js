@@ -5,6 +5,7 @@ import Autor from "./components/Autor";
 import Info from "./components/Info";
 import Buch from "./components/Buch";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <Buch />
       <Autor />
       <Info />
+      <Footer />
     </div>
   );
 }
