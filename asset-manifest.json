@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/unser-taegliches-brot/static/css/main.08325802.css",
+    "main.js": "/unser-taegliches-brot/static/js/main.24ba30e2.js",
+    "static/media/mauer.jpg": "/unser-taegliches-brot/static/media/mauer.54eef1692ef51724ff6e.jpg",
+    "static/media/tvonwaschberg2.jpg": "/unser-taegliches-brot/static/media/tvonwaschberg2.f08ca9f765ad1743d82c.jpg",
+    "static/media/cover.jpg": "/unser-taegliches-brot/static/media/cover.a889b474c6658991eb4e.jpg",
+    "index.html": "/unser-taegliches-brot/index.html",
+    "main.08325802.css.map": "/unser-taegliches-brot/static/css/main.08325802.css.map",
+    "main.24ba30e2.js.map": "/unser-taegliches-brot/static/js/main.24ba30e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08325802.css",
+    "static/js/main.24ba30e2.js"
+  ]
+}
